@@ -111,28 +111,31 @@ Confusion Matrix:
 
 ## Documentation
 
-Refer to the `notebooks/citrus_disease_detection.ipynb` file for step-by-step details on:
+Refer to the `Citrus-Leaves-Disease-Detection.ipynb` file for step-by-step details on:
 
 - Data preprocessing and augmentation.
 - YOLOv5 model setup and training.
-- Hyperparameter tuning.
 - Results analysis.
 
 ---
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request with detailed explanations of changes.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Contributions are welcome!
 
 ---
 
 ## Acknowledgments
 
 - YOLOv5 by Ultralytics: [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
-- Roboflow for dataset hosting and augmentation tools.
+- Roboflow Universe for dataset hosting and augmentation tools.
+
+---
+
+## Contributors:
+
+This is a Final Project requirement for the Professional Elective 5 course.
+
+Aubrey Min M. Lasala
+Britney G. Beligan
+4th Year BS Computer Science students from New Era University, Quezon City

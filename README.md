@@ -134,7 +134,5 @@ Contributions are welcome!
 ## Contributors:
 
 This is a Final Project requirement for the Professional Elective 5 course.
-
-Aubrey Min M. Lasala
-Britney G. Beligan
-4th Year BS Computer Science students from New Era University, Quezon City
+- Aubrey Min M. Lasala
+- Britney G. Beligan

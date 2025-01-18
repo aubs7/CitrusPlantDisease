@@ -25,7 +25,6 @@ The study focused on detecting and classifying five categories of citrus leaf co
 - **Source**: Locally captured images of citrus leaves (Calamansi and Dalandan). It has three sets for training, validation, and testing.
 - **Classes**: 5 (as listed above)
 - **Augmentation**: Performed using [Roboflow](https://universe.roboflow.com/aubsmin/citrus-leaves) (Version 10 under filename: final-new).
-- Dataset stored in the `data/` directory
 - Available for [Direct Download](https://universe.roboflow.com/ds/QyK7SUjhBR?key=UniBRbSYWh) or copy-paste this code for YOLOv5:
 
 ```
